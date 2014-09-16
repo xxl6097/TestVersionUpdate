@@ -1,0 +1,12 @@
+{
+"verCode":2,
+"verName":"v2.0.0.1",
+"force":0,
+"downloadUrl":"http://192.168.1.142:8000/Vanward_gas.apk",
+"content":[
+{"id":1,"text":"增加了摇一摇功能测"},
+{"id":2,"text":"优化了拖曳缓冲特效"},
+{"id":3,"text":"改善菜单用户体验测"},
+{"id":4,"text":"增加更多人名趣事测"}
+]}
+
